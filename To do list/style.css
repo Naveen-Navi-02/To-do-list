@@ -1,5 +1,6 @@
 body{
     font-family: Arial;
+    justfy-content: center;
 }
 .todo-grid,
 .todo-input-grid{
